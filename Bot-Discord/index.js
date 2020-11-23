@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
-bot.login("SUA_ID_TOKEN_AQUI");
+bot.login("NzgwNDE2MTU2NzYyNTA1MjE3.X7uxLw.AF3PIMTkoFvn8lXBgACfiWoXuiU");
 bot.once('ready', ()=> {
   console.log('Bot online: ${bot.user.tag}!');
 });
