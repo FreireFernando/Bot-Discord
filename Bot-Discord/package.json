@@ -1,0 +1,14 @@
+{
+  "name": "micto_bot",
+  "version": "1.0.0",
+  "description": "Um bot de boas vindas para o Discord.",
+  "main": "s",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Freire",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.0"
+  }
+}
